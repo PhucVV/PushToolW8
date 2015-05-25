@@ -1,0 +1,14 @@
+D:\TestPushHD\TestPushHD\bin\Debug\TestPushHD.exe.config
+D:\TestPushHD\TestPushHD\bin\Debug\TestPushHD.exe
+D:\TestPushHD\TestPushHD\bin\Debug\TestPushHD.pdb
+D:\TestPushHD\TestPushHD\bin\Debug\System.Net.Http.Extensions.dll
+D:\TestPushHD\TestPushHD\bin\Debug\System.Net.Http.Primitives.dll
+D:\TestPushHD\TestPushHD\bin\Debug\System.Net.Http.Extensions.xml
+D:\TestPushHD\TestPushHD\bin\Debug\System.Net.Http.Primitives.xml
+D:\TestPushHD\TestPushHD\obj\Debug\TestPushHD.csproj.App.config
+D:\TestPushHD\TestPushHD\obj\Debug\TestPushHD.csprojResolveAssemblyReference.cache
+D:\TestPushHD\TestPushHD\obj\Debug\TestPushHD.Form1.resources
+D:\TestPushHD\TestPushHD\obj\Debug\TestPushHD.Properties.Resources.resources
+D:\TestPushHD\TestPushHD\obj\Debug\TestPushHD.csproj.GenerateResource.Cache
+D:\TestPushHD\TestPushHD\obj\Debug\TestPushHD.exe
+D:\TestPushHD\TestPushHD\obj\Debug\TestPushHD.pdb
